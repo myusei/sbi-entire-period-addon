@@ -6,6 +6,11 @@
     "icons": {
         "48": "icon48.png"
     },
+    "applications": {
+        "gecko": {
+            "id": "support@myusei.com"
+        }
+    },
     "permissions": [
         "scripting"
     ],
